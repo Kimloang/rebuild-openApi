@@ -1,0 +1,6 @@
+{
+  "name": "ACLEDA Toanchet Pay API Studio",
+  "description": "Interactive developer workbench, HMAC-SHA512 hash generator, payload validator, and knowledge base for ACLEDA Bank Toanchet Pay payment gateway APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
